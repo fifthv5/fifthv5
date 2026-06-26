@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm fifthv5, a ricer for Hyprland and devoted nim, C#, and python programmer.
+I'm fifthv5, a ricer for Hyprland and devoted nim, C++, and python programmer.
 
 When i get an idea ✨ I always try to go through with it
 
